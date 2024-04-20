@@ -1,0 +1,24 @@
+[submodule "software-engineering"]
+	path = software-engineering
+	url = https://github.com/SaverioNapolitano/software-engineering.git
+[submodule "database-sql"]
+	path = database-sql
+	url = https://github.com/SaverioNapolitano/database-sql.git
+[submodule "oop-exam"]
+	path = oop-exam
+	url = https://github.com/SaverioNapolitano/oop-exam.git
+[submodule "oop-java"]
+	path = oop-java
+	url = https://github.com/SaverioNapolitano/oop-java.git
+[submodule "oop-python"]
+	path = oop-python
+	url = https://github.com/SaverioNapolitano/oop-python.git
+[submodule "fundamentals-of-computer-science-II"]
+	path = fundamentals-of-computer-science-II
+	url = https://github.com/SaverioNapolitano/fundamentals-of-computer-science-II.git
+[submodule "operatingsystems"]
+	path = operatingsystems
+	url = https://github.com/SaverioNapolitano/operatingsystems.git
+[submodule "ordinasimboli"]
+	path = ordinasimboli
+	url = https://github.com/SaverioNapolitano/ordinasimboli.git
