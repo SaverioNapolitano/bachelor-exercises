@@ -22,6 +22,3 @@
 [submodule "ordinasimboli"]
 	path = ordinasimboli
 	url = https://github.com/SaverioNapolitano/ordinasimboli.git
-[submodule "university-exercises"]
-	path = university-exercises
-	url = https://github.com/SaverioNapolitano/university-exercises.git
